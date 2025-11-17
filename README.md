@@ -1,6 +1,7 @@
 # Aplicaci-n-de-Control-de-Asistencia
 Documentación De Aplicación de Control de Asistencia En GITHUB
-Documento de requerimientos funcionales y no funcionales 
+Documento de requerimientos funcionales y no funcionales.
+ 
  1.Documento de requerimientos funcionales y no funcionales
 
  2.Tabla o plan de pruebas funcionales (minimo 3 casos de prueba con resultado esperado y validacion).
