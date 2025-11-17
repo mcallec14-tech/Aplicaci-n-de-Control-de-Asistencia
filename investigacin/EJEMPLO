@@ -1,0 +1,77 @@
+# Ejemplo Práctico de Markdown
+
+## Introducción
+
+Este documento demuestra el uso de diversos elementos en Markdown, incluyendo encabezados, listas, tablas, enlaces e imágenes.
+
+---
+
+## 1. Encabezados
+
+# Encabezado Nivel 1
+## Encabezado Nivel 2
+### Encabezado Nivel 3
+#### Encabezado Nivel 4
+##### Encabezado Nivel 5
+###### Encabezado Nivel 6
+
+---
+
+## 2. Listas
+
+### Lista Desordenada
+- Elemento primero
+- Elemento segundo
+  - Subelemento 2.1
+  - Subelemento 2.2
+- Elemento tercero
+
+### Lista Ordenada
+1. Primer paso
+2. Segundo paso
+   1. Subpaso 2.1
+   2. Subpaso 2.2
+3. Tercer paso
+
+### Lista de Tareas
+- [x] Tarea completada
+- [ ] Tarea pendiente
+- [ ] Otra tarea por hacer
+
+---
+
+## 3. Tablas
+
+| Nombre | Edad | Ciudad | Profesión |
+|--------|------|--------|-----------|
+| Juan | 28 | Madrid | Ingeniero |
+| María | 32 | Barcelona | Diseñadora |
+| Carlos | 25 | Valencia | Desarrollador |
+| Ana | 30 | Sevilla | Analista |
+
+---
+
+## 4. Enlaces
+
+[Visita Google](https://www.google.com)
+
+[Descarga Python](https://www.python.org)
+
+[GitHub](https://github.com)
+
+---
+
+## 5. Imágenes
+
+### Imagen con URL
+![Logo de Markdown](https://markdown-here.com/img/icon256.png)
+
+### Imagen con Referencia
+![Ejemplo de Imagen][logo]
+
+[logo]: https://via.placeholder.com/200x200?text=Markdown+Example
+
+### Imagen con Enlace
+[![Haz clic para ir a Google](https://via.placeholder.com/150?text=Click+Me)](https://www.google.com)
+
+---
